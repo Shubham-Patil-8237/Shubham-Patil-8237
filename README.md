@@ -1,4 +1,4 @@
-# 👨‍💻 Shubham Sanjay Patil – Big Data & Cloud Enthusiast
+# 👨‍💻 Shubham Patil – Big Data & Cloud Enthusiast
 
 Hi there! 👋 I'm Shubham from Pune, currently pursuing a cutting-edge Big Data specialization through **CDAC Kharghar** and **TendyTech, Bangalore**. I’m passionate about transforming raw data into actionable insights using scalable technologies.
 
