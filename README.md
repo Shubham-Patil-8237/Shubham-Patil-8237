@@ -84,7 +84,7 @@ Hi there! 👋 I'm Shubham from Pune, currently pursuing a cutting-edge Big Data
 
 ## 📬 Connect with Me
 
-- 📧 Email: [your-email@example.com]  
+- 📧 Email: shubham22016@gmail.com 
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
 - 🌐 Portfolio (coming soon...)
 
