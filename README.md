@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Shubham+Patil;Big+Data+%7C+Cloud+%7C+ML+Explorer+from+India" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=👨‍💻%20Shubham%20Patil%20%20🚀&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</p>
+
 # 👨‍💻 Shubham Patil – Big Data & Cloud Enthusiast
 
 ![Visitors](https://komarev.com/ghpvc/?username=shubhampatilmca&style=flat-square&color=blue)
