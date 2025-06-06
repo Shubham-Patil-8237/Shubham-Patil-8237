@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=800&height=80&lines=👋+Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
-
 
 <!-- 🧑‍💻 Name with title -->
-<h1 align="center">
-  Shubham Patil – Big Data & Cloud Enthusiast 🚀
-</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhampatilmca&style=flat-square&color=blue" alt="Profile Views" />
