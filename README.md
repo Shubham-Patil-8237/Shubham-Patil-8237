@@ -1,56 +1,95 @@
 # 👨‍💻 Shubham Patil – Big Data & Cloud Enthusiast
 
-Hi there! 👋 I'm Shubham from Pune, currently pursuing a cutting-edge Big Data specialization through **CDAC Kharghar** and **TendyTech, Bangalore**. I’m passionate about transforming raw data into actionable insights using scalable technologies.
+![Visitors](https://komarev.com/ghpvc/?username=shubhampatilmca&style=flat-square&color=blue)
+![Status](https://img.shields.io/badge/Big%20Data-PySpark|Hadoop|Hive-blueviolet)
+![Badge](https://img.shields.io/badge/Cloud-AWS|Azure|GCP-orange)
+![Learning](https://img.shields.io/badge/Learning-Kafka|ML|R-informational)
+
+---
+
+Hi there! 👋  
+I'm **Shubham Patil** from Pune, India — a passionate Big Data enthusiast, cloud learner, and future-ready data professional. I'm currently pursuing **PG-DAC in Big Data Analytics at CDAC Kharghar** while expanding my skills via **TrendyTech’s Big Data Master’s Program**.
 
 ---
 
 ## 🎓 Academic & Professional Journey
 
-- ✅ **Master of Computer Applications (MCA)** – Sinhgad Institute, Pune  
-- ✅ **Bachelor's in BBACA** – SM Joshi College, Pune  
-- 🏫 **CDAC – PG-DAC @ Kharghar**, Batch: Mar 2025  
-  > Currently undergoing intensive training in core IT modules with specialization in **Big Data Analytics**.
+- 🎓 **MCA** – Sinhgad Institute, Pune (CGPA: 8.04)  
+- 🎓 **BBA(CA)** – SM Joshi College, Pune (CGPA: 8.88)  
+- 🚀 **CDAC – PG-DAC (Mar 2025)** – Specialization: *Big Data Analytics*
+
+---
+
+## 💼 My Tech Toolbox
+
+### 🛠️ Languages & Tools
+`Python` | `Java` | `SQL` | `Linux` | `Shell Scripting`
+
+### 💾 Big Data Stack
+`Hadoop` • `HDFS` • `MapReduce` • `Hive` • `Spark` • `PySpark` • `SparkSQL`
+
+### ☁️ Cloud & DevOps
+`AWS EC2` • `S3` • `IAM` • `VPC` • `Azure` • `GCP` • `Git` • `Agile`
 
 ---
 
 ## 📌 My CDAC Journey Highlights
 
-- 💡 Mastered core modules like:
-  - **Java, DBMS, Data Structures, Operating Systems**
-  - **Web Technologies, AWS Cloud, and Software Engineering**
-- 🔍 Specialized in Big Data Technologies:
-  - **Hadoop, HDFS, Hive, PySpark, MapReduce**
-- 🚀 Developed projects using real-time datasets and production-style architecture
+- ✅ Learned core modules:
+  - Java, DBMS, DS, OS, SE, AWS, Web Tech
+- 🚀 Specialized in:
+  - PySpark, Hive, Hadoop, MapReduce
+- 📊 Built real-time project pipelines on production datasets
+
+---
+
+## 🔥 Noteworthy Projects
+
+### 🧾 Lending Club Loan Analysis – *PySpark Project*
+> Built a complete ETL pipeline for 2M+ loan records using PySpark.  
+> Cleaned, transformed, and analyzed data to detect loan risks and defaults.  
+> Used schema inference, null handling, deduplication, and hashing for scalable data processing.
+
+### 🧠 Mental Health Monitor – *ML + NLP*
+> An intelligent assistant to monitor user mood & behavior via chat logs and digital activity.  
+> Uses natural language patterns to predict mental health levels and trigger alerts.
+
+### 🧳 AssurAsset_TagGuard – *Inventory Tracker*
+> Smart asset tracking system with barcode tagging for relocation management.
 
 ---
 
 ## 📈 Currently Learning
 
-- 📦 Apache Kafka & Spark Streaming  
-- 🔍 Data Visualization with R  
-- 🤖 Machine Learning with Big Data  
-- ☁️ Advanced AWS (Glue, Athena)
+- 📦 **Apache Kafka & Spark Streaming**  
+- 📊 **Data Visualization in R**  
+- 🤖 **ML on Big Data**  
+- ☁️ **Advanced AWS – Athena, Glue, CloudFormation**
 
 ---
 
 ## 🌟 Soft Skills
 
-- ✅ Responsible and positive attitude  
-- ✅ Strong communication and team collaboration  
-- ✅ Quick learner and adaptive to new tech
+- ✅ Growth mindset and fast learner  
+- ✅ Strong team collaboration & problem-solving  
+- ✅ Excellent time management and communication
 
 ---
 
-## 📬 Connect with Me
+## 📫 Connect with Me
 
-- 📧 Email: shubham22016@gmail.com 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
-- 🌐 Portfolio (coming soon...)
+- 📧 **Email**: shubham22016@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/shubhampatilmca](https://linkedin.com/in/shubhampatilmca)  
+- 🌐 **Portfolio**: Coming Soon...  
+- 💬 *Let’s collaborate on exciting Big Data & Cloud projects!*
 
 ---
 
 <div align="center">
 
-📌 *"Data is the new oil, but it’s crude. You need to refine it with skills, tools, and a curious mind!"*
+### ✨ *"Data is the new oil, but it’s crude. You need to refine it with skills, tools, and a curious mind!"* ✨
+
+⭐ *Thanks for visiting!* ⭐  
+📌 *Check out my repositories below ⬇️*
 
 </div>
