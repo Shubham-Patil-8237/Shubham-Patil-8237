@@ -1,7 +1,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=900&height=90&lines=👋+Hi%2C+I'm+Shubham+Patil!;🚀+Welcome+to+my+GitHub+Portfolio!;🎓+CDAC+PG-DBDA+%7C+MCA+%7C+BBACA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=950&height=120&lines=👋+Hi%2C+I'm+Shubham+Patil!;🚀+Welcome+to+my+GitHub+Portfolio!;🎓+CDAC+PG-DBDA+%7C+MCA+%7C+BBACA" alt="Typing SVG" />
 </p>
 
 ---
