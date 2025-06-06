@@ -50,13 +50,6 @@ I'm **Shubham Patil** from Pune, India — a passionate Big Data enthusiast, clo
 > Cleaned, transformed, and analyzed data to detect loan risks and defaults.  
 > Used schema inference, null handling, deduplication, and hashing for scalable data processing.
 
-### 🧠 Mental Health Monitor – *ML + NLP*
-> An intelligent assistant to monitor user mood & behavior via chat logs and digital activity.  
-> Uses natural language patterns to predict mental health levels and trigger alerts.
-
-### 🧳 AssurAsset_TagGuard – *Inventory Tracker*
-> Smart asset tracking system with barcode tagging for relocation management.
-
 ---
 
 ## 📈 Currently Learning
