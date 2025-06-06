@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Hi+I'm+Shubham+Patil;Big+Data+%7C+Cloud+%7C+ML+Explorer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+Welcome+to+my+GitHub!;🎓+MCA+%7C+BBACA+%7C+CDAC+PG-DBDA;🚀+Big+Data+%7C+Cloud+%7C+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2027,203a43,2c5364&height=100&section=header&text=Shubham%20Patil%20🚀&fontSize=45&fontAlign=50&fontColor=ffffff" />
-</p>
 
 
 # 👨‍💻 Shubham Patil – Big Data & Cloud Enthusiast
