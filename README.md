@@ -1,35 +1,40 @@
+ <!-- 🎉 Animated Welcome Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+Welcome+to+my+GitHub!;🎓+MCA+%7C+BBACA+%7C+CDAC+PG-DBDA;🚀+Big+Data+%7C+Cloud+%7C+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
+<!-- 🧑‍💻 Name with title -->
+<h1 align="center">
+  Shubham Patil – Big Data & Cloud Enthusiast 🚀
+</h1>
 
-
-# 👨‍💻 Shubham Patil – Big Data & Cloud Enthusiast
-
-![Visitors](https://komarev.com/ghpvc/?username=shubhampatilmca&style=flat-square&color=blue)
-![Status](https://img.shields.io/badge/Big%20Data-PySpark|Hadoop|Hive-blueviolet)
-![Badge](https://img.shields.io/badge/Cloud-AWS|Azure|GCP-orange)
-![Learning](https://img.shields.io/badge/Learning-Kafka|ML|R-informational)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhampatilmca&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Big%20Data-PySpark|Hadoop|Hive-blueviolet" />
+  <img src="https://img.shields.io/badge/Cloud-AWS|Azure|GCP-orange" />
+  <img src="https://img.shields.io/badge/Learning-Kafka|ML|R-informational" />
+</p>
 
 ---
 
-Hi there! 👋  
-I'm **Shubham Patil** from Pune, India — a passionate Big Data enthusiast, cloud learner, and future-ready data professional. I'm currently pursuing **PG-DAC in Big Data Analytics at CDAC Kharghar** while expanding my skills via **TrendyTech’s Big Data Master’s Program**.
+## 👋 About Me
+
+Hi there! I'm **Shubham Patil** from Pune, India — a passionate **Big Data enthusiast**, **cloud learner**, and **future-ready data professional**. Currently pursuing **PG-DAC in Big Data Analytics at CDAC Kharghar**, while simultaneously expanding my skill set via **TrendyTech’s Big Data Master’s Program**.
 
 ---
 
 ## 🎓 Academic & Professional Journey
 
-- 🎓 **MCA** – Sinhgad Institute, Pune (CGPA: 8.04)  
-- 🎓 **BBA(CA)** – SM Joshi College, Pune (CGPA: 8.88)  
-- 🚀 **CDAC – PG-DAC (Mar 2025)** – Specialization: *Big Data Analytics*
+- 🎓 **MCA** – Sinhgad Institute, Pune *(CGPA: 8.04)*  
+- 🎓 **BBACA** – SM Joshi College, Pune *(CGPA: 8.88)*  
+- 🚀 **PG-DAC (Mar 2025)** – CDAC Kharghar *(Specialization: Big Data Analytics)*
 
 ---
 
 ## 💼 My Tech Toolbox
 
 ### 🛠️ Languages & Tools
-`Python` | `Java` | `SQL` | `Linux` | `Shell Scripting`
+`Python` • `Java` • `SQL` • `Linux` • `Shell Scripting`
 
 ### 💾 Big Data Stack
 `Hadoop` • `HDFS` • `MapReduce` • `Hive` • `Spark` • `PySpark` • `SparkSQL`
@@ -39,56 +44,53 @@ I'm **Shubham Patil** from Pune, India — a passionate Big Data enthusiast, clo
 
 ---
 
-## 📌 My CDAC Journey Highlights
+## 📌 CDAC Highlights
 
-- ✅ Learned core modules:
-  - Java, DBMS, DS, OS, SE, AWS, Web Tech
-- 🚀 Specialized in:
-  - PySpark, Hive, Hadoop, MapReduce
-- 📊 Built real-time project pipelines on production datasets
+- ✅ Core Modules: `Java`, `DBMS`, `DS`, `OS`, `SE`, `Web Tech`, `AWS`  
+- 🚀 Big Data Modules: `PySpark`, `Hive`, `Hadoop`, `MapReduce`  
+- 📊 Hands-on Projects: Real-time production datasets using Spark-based pipelines
 
 ---
 
-## 🔥 Noteworthy Projects
+## 🚀 Featured Project
 
 ### 🧾 Lending Club Loan Analysis – *PySpark Project*
-> Built a complete ETL pipeline for 2M+ loan records using PySpark.  
-> Cleaned, transformed, and analyzed data to detect loan risks and defaults.  
-> Used schema inference, null handling, deduplication, and hashing for scalable data processing.
+> A complete Spark ETL pipeline built to process 2M+ records.  
+> Applied data cleaning, transformation, null handling, deduplication, and hashing.  
+> Focused on borrower risk detection and lending score improvement.
 
 ---
 
 ## 📈 Currently Learning
 
-- 📦 **Apache Kafka & Spark Streaming**  
+- 🔄 **Apache Kafka & Spark Streaming**  
 - 📊 **Data Visualization in R**  
-- 🤖 **ML on Big Data**  
+- 🤖 **Machine Learning on Big Data**  
 - ☁️ **Advanced AWS – Athena, Glue, CloudFormation**
 
 ---
 
 ## 🌟 Soft Skills
 
-- ✅ Growth mindset and fast learner  
-- ✅ Strong team collaboration & problem-solving  
-- ✅ Excellent time management and communication
+- ✅ Growth mindset & fast learner  
+- ✅ Strong team collaboration & communication  
+- ✅ Detail-oriented & problem-solving focus
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 **Email**: shubham22016@gmail.com  
+- 📧 **Email**: [shubham22016@gmail.com](mailto:shubham22016@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/shubhampatilmca](https://linkedin.com/in/shubhampatilmca)  
-- 🌐 **Portfolio**: Coming Soon...  
-- 💬 *Let’s collaborate on exciting Big Data & Cloud projects!*
+- 🌐 **Portfolio**: *Coming Soon*  
+- 💬 *Let's collaborate on impactful Big Data & Cloud projects!*
 
 ---
 
 <div align="center">
 
-### ✨ *"Data is the new oil, but it’s crude. You need to refine it with skills, tools, and a curious mind!"* ✨
-
+### ✨ *"Data is the new oil, but it’s crude. You need to refine it with skills, tools, and a curious mind!"*  
 ⭐ *Thanks for visiting!* ⭐  
-📌 *Check out my repositories below ⬇️*
+⬇️ *Check out my repositories below!* ⬇️
 
 </div>
