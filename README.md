@@ -1,6 +1,6 @@
- <!-- 🎉 Animated Welcome Header -->
+<!-- 🧑‍💻 Animated Intro Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+Welcome+to+my+GitHub!;🎓+MCA+%7C+BBACA+%7C+CDAC+PG-DBDA;🚀+Big+Data+%7C+Cloud+%7C+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=950&height=100&lines=👋+Hi%2C+I+am+Shubham+Patil!;🎓+CDAC+PG-DBDA+%7C+MCA+%7C+BBACA;🚀+Big+Data+%7C+Cloud+%7C+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- 🧑‍💻 Name with title -->
