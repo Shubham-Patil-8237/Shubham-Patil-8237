@@ -1,13 +1,4 @@
 
-<!-- 🧑‍💻 Name with title -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhampatilmca&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Big%20Data-PySpark|Hadoop|Hive-blueviolet" />
-  <img src="https://img.shields.io/badge/Cloud-AWS|Azure|GCP-orange" />
-  <img src="https://img.shields.io/badge/Learning-Kafka|ML|R-informational" />
-</p>
-
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=900&height=90&lines=👋+Hi%2C+I'm+Shubham+Patil!;🚀+Welcome+to+my+GitHub+Portfolio!;🎓+CDAC+PG-DBDA+%7C+MCA+%7C+BBACA" alt="Typing SVG" />
