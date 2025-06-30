@@ -14,7 +14,7 @@ Hi there! I'm **Shubham Patil** from Pune, India — a passionate **Big Data ent
 
 ## 🎓 Academic & Professional Journey
 
-* 🚀 **PG-DAC (FEB 2025)** – CDAC Kharghar *(Specialization: Big Data Analytics)*
+* 🚀 **PG-DBDA (FEB 2025)** – CDAC Kharghar *(Specialization: Big Data Analytics)*
 * 🎓 **MCA** – Sinhgad Institute, Pune *(CGPA: 8.04)*
 * 🎓 **BBACA** – SM Joshi College, Pune *(CGPA: 8.88)*
 
