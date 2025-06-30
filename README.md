@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Shubham Patil** from Pune, India — a passionate **Big Data enthusiast**, **cloud learner**, and **future-ready data professional**. Currently pursuing **PG-DAC in Big Data Analytics at CDAC Kharghar**, while simultaneously expanding my skill set via **TrendyTech’s Big Data Master’s Program**.
+Hi there! I'm **Shubham Patil** from Pune, India — a passionate **Big Data enthusiast**, **cloud learner**, and **future-ready data professional**. Currently pursuing **PG-DBDA (Big Data Analytics) at CDAC Kharghar**, while simultaneously expanding my skill set via **TrendyTech’s Big Data Master’s Program**.
 
 ---
 
